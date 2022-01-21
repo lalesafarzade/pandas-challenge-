@@ -15,6 +15,8 @@ Your final report should include each of the following:
 
 ### District Summary
 
+![summary_table](images/summary_table.png)
+
 * Create a high level snapshot (in table form) of the district's key metrics, including:
   * Total Schools
   * Total Students
@@ -26,6 +28,8 @@ Your final report should include each of the following:
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
 ### School Summary
+
+![school_summary_display](images/school_summary_display.png)
 
 * Create an overview table that summarizes key metrics about each school, including:
   * School Name
@@ -41,6 +45,8 @@ Your final report should include each of the following:
 
 ### Top Performing Schools (By % Overall Passing)
 
+![Tp_Performing_School](images/Tp_Performing_School.png)
+
 * Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
   * School Name
   * School Type
@@ -55,17 +61,25 @@ Your final report should include each of the following:
 
 ### Bottom Performing Schools (By % Overall Passing)
 
+![Btt_Performing_School](images/Btt_Performing_School.png)
+
 * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
 ### Math Scores by Grade\*\*
+
+![Math_score_by_grade](images/Math_score_by_grade.png)
 
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ### Reading Scores by Grade
 
+![Reading_score_by_grade](images/Reading_score_by_grade.png)
+
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ### Scores by School Spending
+
+![Scores_By_School_Spending](images/Scores_By_School_Spending.png)
 
 * Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
   * Average Math Score
@@ -76,9 +90,13 @@ Your final report should include each of the following:
 
 ### Scores by School Size
 
+![Scores_By_School_Size](images/Scores_By_School_Size.png)
+
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
 ### Scores by School Type
+
+![Scores_by_School_Type](images/Scores_by_School_Type.png)
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
