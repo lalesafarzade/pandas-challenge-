@@ -1,0 +1,5 @@
+1.There is a very interesting relationship between budget per student and student’s scores , less budget more successful in score passing.
+The schools with less than $585 budget per student have the best scores. The rate of scores in math and reading comes lower and lower by increasing the budget!
+
+2.By looking at the 5 top performing schools and 5 bottom performing schools tables and Scores by school type table we can see the type of school is a key for performing and Charter school is more successful than District
+3.Too large schools (more than 2000) have very low performance and overall passing percent comes down significantly!
